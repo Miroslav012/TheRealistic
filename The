@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Realistic Community - Гейминг Общност</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="The Realistic Community">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Начало</a></li>
+                <li><a href="news.html">Новини</a></li>
+                <li><a href="forum.html">Форум</a></li>
+                <li><a href="about.html">За нас</a></li>
+                <li><a href="contact.html">Контакти</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>Добре дошли в The Realistic Community</h1>
+            <p>Вашата любима гейминг общност за реалистични игри и приключения!</p>
+        </section>
+
+        <section class="news">
+            <h2>Последни новини</h2>
+            <article>
+                <h3>Предстоящо събитие: Турнир по CS:GO</h3>
+                <p>Запишете се за участие в турнира по CS:GO, който ще се проведе на 15-ти септември!</p>
+            </article>
+            <!-- Други новини -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 The Realistic Community. Всички права запазени.</p>
+    </footer>
+</body>
+</html>
